@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2DDD3AEF-8660-4461-AAB9-414D32431116}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hw14junetask2/Program.cs">
+    <Files>
+      <File FileName="hw14junetask2/Program.cs" Line="17" Column="1" />
+      <File FileName="hw14junetask2/Product.cs" Line="11" Column="1" />
+      <File FileName="hw14junetask2/Milk.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw14junetask2" expanded="True">
+            <Node name="hw14junetask2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.hw14junetask2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
